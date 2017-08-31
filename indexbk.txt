@@ -1,0 +1,4 @@
+<?php
+	//header("Location: /backend/web/index.php");die();
+	echo "Please go to [http://YourServer.com]/backend/web/index.php?r=site%2Flogin";
+?>
